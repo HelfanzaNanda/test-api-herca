@@ -8,7 +8,7 @@ git clone https://github.com/HelfanzaNanda/test-api-herca.git
 # masuk project
 cd test-api-herca
 
-pastikan php sudah 8
+# pastikan php sudah 8
 # install vendor
 composer install
 
